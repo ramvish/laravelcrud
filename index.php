@@ -1,5 +1,5 @@
 <?php
-echo "hello php";
+echo "this is index file php";
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
